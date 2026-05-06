@@ -19,7 +19,9 @@ develop - Rama de integración de cambios
 feature - nuevos cambios
 release/v1.0.0 - Cambios revisados y probados para enviar a main
 hotfix/readme-typo - Correcciones en caliente
+feature/documentacion-extra - nuevos cambios
+feature/readme-base - Cambios nuevos en el readme
 
 tag v1.0.0 - Primera version
 ## Evidencias
-Cositas
+https//:Cositas
