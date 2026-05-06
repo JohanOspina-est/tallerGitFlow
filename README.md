@@ -15,4 +15,11 @@ Por ejemplo:
 ## Autores
 Johan Steven Ospina Gonzalez
 ## Flujo de trabajo Git
+develop - Rama de integración de cambios
+feature - nuevos cambios
+release/v1.0.0 - Cambios revisados y probados para enviar a main
+hotfix/readme-typo - Correcciones en caliente
+
+tag v1.0.0 - Primera version
 ## Evidencias
+Cositas
